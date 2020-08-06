@@ -1,0 +1,10 @@
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\bin\Debug\QCMC_SW_System.exe
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\bin\Debug\QCMC_SW_System.pdb
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.csprojAssemblyReference.cache
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.Login.resources
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.Properties.Resources.resources
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.csproj.GenerateResource.cache
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.csproj.CoreCompileInputs.cache
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.exe
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.pdb
+D:\C#\System\QCMC_SW_System\QCMC_SW_System\obj\Debug\QCMC_SW_System.WinForm.RegisterUser.resources
